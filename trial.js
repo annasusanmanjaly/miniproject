@@ -1,5 +1,5 @@
 const express = require('express');
-const mysql = require('mysql');
+const mysql2 = require('mysql2');
 const path = require('path');
 const bodyParser = require('body-parser');
 const session = require('express-session');
@@ -18,7 +18,7 @@ app.use(
   })
 );
 
-const connection = mysql.createConnection({
+const connection = mysql2.createConnection({
   host: 'localhost',
   user: 'root',
   password: '1111',
