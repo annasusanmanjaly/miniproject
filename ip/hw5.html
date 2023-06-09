@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>String</title>
+</head>
+<body>
+    <script>
+        function checkStringLength() {
+      var userInput = prompt("Enter a string:");
+      
+      if (userInput.length < 5 || userInput.length > 10) {
+        userInput = prompt("Invalid length! Please enter another string:");
+      }
+      
+      alert("The final string is: " + userInput);
+    }
+    
+    checkStringLength();
+    </script>
+</body>
+</html>

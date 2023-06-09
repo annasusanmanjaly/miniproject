@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>biodata</title>
+  <style>
+    img {
+      width: 250px;
+      border-radius: 125px;
+      float: right;
+      margin-left: 10px;
+    }
+  </style>
+</head>
+
+<body>
+  <h1 align="center">BIO DATA</h1>
+<img src="C:\Users\91920\OneDrive\Desktop\Anna\docs\Photo.jpg">
+  <h3><B><U>PERSONAL DETAILS</U></B></h3>
+  <p>
+    <font size='5'>
+      <PRE><B>NAME</B>              :     Annasusan Manjanly</PRE>
+    </font>
+  </p>
+  <p>
+    <font size='5'>
+      <PRE><B>FATHER'S NAME</B>     :     Biju Joseph</PRE>
+    </font>
+  </p>
+  <p>
+    <font size='5'>
+      <PRE><B>MOTHER'S NAME</B>     :     Ansily Pulikottil</PRE>
+    </font>
+  </p>
+  <p>
+    <font size='5'>
+      <PRE><B>ADDRESS</B>           :     Manjaly House,
+                        Varandarappilly P.O Thrissur
+                        pin-680303</PRE>
+    </font>
+  </p>
+  <p>
+    <font size='5'>
+      <PRE><B>DATE OF BIRTH</B>     :     21-06-2003</PRE>
+    </font>
+  </p>
+  <p>
+    <font size='5'>
+      <PRE><B>GENDER</B>            :     Female</PRE>
+    </font>
+  </p>
+  <p>
+    <font size='5'>
+      <PRE><B>PHONE NUMBER</B>      :     623XXXXX35</PRE>
+    </font>
+  </p>
+  <P>
+    <font size="5">
+	<PRE><B>EMAIL</B>             :     <ahref="annasusanmanjaly@gmail.com"annasusanmanjaly@gmail.com</a></PRE>
+    </font></PRE>
+  </P>
+<H3><B><U>SKILLS</U></B></H3>
+<HR>
+<DL>
+	<DT><B>TECHNICAL SKILL:</B></DT>
+	  <DD>Better knowledge in programming,Project Management,Data
+	  Analysis,Excel,Powerpoint,HTML,Web Development</DD>
+<br>
+	<DT><B>PROGRAMMING LANGUAGE</B></DT>
+	  <DD>Knows Javascript,SQL,C++,C,Python</DD>
+<br>
+	<DT><B>LANGUAGES KNOWN</B></DT>
+	  <DD>English,Hindi,Malayalam</DD>
+</DL>
+  <h3><B><U>EDUCATIONAL DETAILS</U></B></h3>
+  <table>
+    <tr>
+      <th><pre>EDUCATION QUALIFICATION</pre></th>
+      <th><pre>	YEAR OF PASS</pre></th>
+      <th><pre>	MARK PERCENTAGE</pre></th>
+    </tr>
+    <tr>
+      <td><pre>High School</pre></td>
+      <td><pre>	2019 </pre></td>
+      <td><pre>	93%</pre></td>
+    </tr>
+    <tr>
+      <td><pre>Higher Secondary</pre></td>
+      <td><pre>	2021</pre> </td>
+      <td><pre>	90%</pre></td>
+    </tr>
+    <tr>
+      <td><pre>Btech</pre></td>
+      <td><pre>presently</pre></td>
+      <td><pre>---</pre><tr>
+
+
+</tr>
+
+
+
+  </TABLE>
+
+</body>
+
+</html>
